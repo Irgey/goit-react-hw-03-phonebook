@@ -1,0 +1,15 @@
+.contactForm {
+  display: flex;
+  flex-direction: column;
+  width: 600px;
+  gap: 25px;
+  align-items: flex-start;
+  padding: 15px;
+  outline: 2px solid rgb(20, 19, 19);
+  outline-offset: -2px;
+}
+.inputField {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
