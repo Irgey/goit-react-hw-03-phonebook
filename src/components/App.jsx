@@ -13,7 +13,6 @@ export class App extends Component {
   };
   addContact = e => {
     e.preventDefault();
-    console.log();
     const {
       name: { value: name },
       number: { value: number },
